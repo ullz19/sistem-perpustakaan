@@ -1,0 +1,13 @@
+{
+  "name": "modul-web",
+  "version": "1.0.0",
+  "description": "Aplikasi web contoh untuk Modul Pembelajaran Cloud Computing dengan Docker (PjBL, Kelompok 6)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "20"
+  },
+  "license": "MIT"
+}
